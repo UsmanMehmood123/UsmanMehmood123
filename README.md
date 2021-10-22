@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UsmanMehmood123
+- 👋 Hi, I’m @UsmanMehmood
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Mobile Application Development,Python
 - 💞️ I’m looking to collaborate on Software Development.
